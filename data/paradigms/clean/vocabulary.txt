@@ -390,6 +390,7 @@ affirm
 affirm resolution
 affirm topic
 affirmation
+affirmative
 affirmative affirmative
 affirmative arguments
 affirmative burden
@@ -429,6 +430,7 @@ affirmatives plan
 affirmatives think
 affirmatives topical
 affirming
+affs
 affs aff
 affs affs
 affs bad
@@ -1097,6 +1099,7 @@ artificially
 arts
 asian
 aside
+ask
 ask answer
 ask cards
 ask clarification
@@ -1333,6 +1336,7 @@ barrier
 barring
 base
 base decision
+based
 based arguments
 based arguments presented
 based arguments round
@@ -1386,6 +1390,7 @@ belief
 beliefs
 beliefs debate
 believable
+believe
 believe aff
 believe affirmative
 believe affirmatives
@@ -2136,6 +2141,7 @@ collapses
 collapsing
 colleagues
 collective
+college
 college career
 college coached
 college debate
@@ -2734,6 +2740,7 @@ criteria
 criterion
 critic
 critic argument
+critical
 critical aff
 critical affirmative
 critical affirmatives
@@ -2838,6 +2845,7 @@ d like think
 d prefer
 d probably
 d say
+da
 da advantage
 da aff
 da case
@@ -3254,6 +3262,7 @@ debated years high
 debated years liberty
 debated years university
 debatedocs
+debater
 debater coach
 debater college
 debater does
@@ -3428,6 +3437,7 @@ debates won
 debates won lost
 debates year
 debates years
+debating
 debating aff
 debating arguments
 debating case
@@ -3875,6 +3885,8 @@ does solve
 does think
 does work
 does world
+doesn
+doesn t
 doesn t answer
 doesn t apply
 doesn t count
@@ -7249,6 +7261,7 @@ link usually
 link work
 linked
 linking
+links
 links ac
 links aff
 links affirmative
@@ -7379,6 +7392,7 @@ logically
 logistics
 logos
 lol
+long
 long argument
 long beach
 long clear
@@ -7753,6 +7767,7 @@ makes harder
 makes job
 makes lot
 makes sense
+making
 making argument
 making arguments
 making debate
@@ -7823,6 +7838,7 @@ maybe
 maybe don
 maybe don t
 maybe s
+mean
 mean aff
 mean automatically
 mean debate
@@ -8242,6 +8258,7 @@ neg wins
 neg won
 negate
 negation
+negative
 negative able
 negative affirmative
 negative argument
@@ -8769,6 +8786,7 @@ pen
 pen time
 penalize
 penalty
+people
 people activity
 people debate
 people don
@@ -9041,6 +9059,7 @@ pmr
 podium
 poem
 poetry
+point
 point debate
 point distribution
 point don
@@ -11049,6 +11068,7 @@ speaker award
 speaker awards
 speaker point
 speaker point scale
+speaker points
 speaker points based
 speaker points clarity
 speaker points debate
@@ -11514,6 +11534,7 @@ supposed
 supposed fun
 supreme
 supreme court
+sure
 sure actually
 sure answer
 sure arguments
@@ -12080,6 +12101,7 @@ technique
 techniques
 technology
 techy
+tell
 tell aff
 tell argument
 tell arguments
@@ -13026,6 +13048,7 @@ united states federal
 universal
 universally
 universities
+university
 university assistant
 university central
 university coach
@@ -13058,6 +13081,7 @@ university texas
 university university
 university wyoming
 university years
+unless
 unless absolutely
 unless aff
 unless argument
@@ -13126,6 +13150,7 @@ urge
 usage
 usb
 usc
+use
 use advantage
 use arguments
 use ballot
@@ -13437,6 +13462,7 @@ voted think
 voter
 voters
 votes
+voting
 voting aff
 voting affirmative
 voting argument
@@ -13835,6 +13861,7 @@ words minute
 words plan
 words resolution
 words use
+work
 work debate
 work debaters
 work don
