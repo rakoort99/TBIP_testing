@@ -1,6 +1,7 @@
 figs/
 __pycache__/
 env/
+results/
 .DS_Store
 
 # include senate speeches data
