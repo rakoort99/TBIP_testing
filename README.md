@@ -1,4 +1,15 @@
-# this is a copy paste job from https://github.com/keyonvafa/tbip for me to play around in
+# This is a modification of Vafa, Naidu, and Blei's TBIP implementation from their 2020 paper
+
+Modifications include:
+- custom stopwords list
+- custom preprocessors to take raw text corpus to bag of words form
+- new TBIP model that allows for ideal points over document topics
+
+mostly used as a playground to test different pre-treatment methods for bag of words models
+
+
+
+# Vafa et al ReadMe below:
 
 # Text-Based Ideal Points
 Source code for the paper: 
